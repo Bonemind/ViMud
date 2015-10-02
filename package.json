@@ -1,0 +1,14 @@
+{
+  "name": "vimud",
+  "version": "0.0.1-a",
+  "description": "Mud client with vim like key binds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bonemind",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
